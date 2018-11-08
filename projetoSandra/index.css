@@ -1,3 +1,9 @@
-.box{
-    border-style: solid;
-}
+.box{}
+    section{
+       margin: 10px;
+       color: blue;
+       background-color: aqua;
+    }
+
+
+
