@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca01cf92-c7a0-4e3f-b7fa-9851c9929cee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/boa-noite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/malvadofavor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mickey.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/migkey1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/minion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/outromickey.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio3.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio3.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,13 +58,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="78" />
-          <entry key="html" value="1532" />
+          <entry key="html" value="1561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="78" />
-          <entry key="HTML" value="1532" />
+          <entry key="HTML" value="1561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -106,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercicio3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="44" column="96" selection-start-line="44" selection-start-column="96" selection-end-line="44" selection-end-column="96" />
+            <state relative-caret-position="510">
+              <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -154,8 +147,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="40" />
+    <option name="x" value="12" />
+    <option name="y" value="8" />
     <option name="width" value="1370" />
     <option name="height" value="820" />
   </component>
@@ -172,11 +165,6 @@
             <path>
               <item name="projetoSandra" type="b2602c69:ProjectViewProjectNode" />
               <item name="projetoSandra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projetoSandra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projetoSandra" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,15 +209,15 @@
       <option name="presentableId" value="Default" />
       <updated>1541590360626</updated>
       <workItem from="1541590361985" duration="2263000" />
-      <workItem from="1541672632907" duration="11157000" />
+      <workItem from="1541672632907" duration="11945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16380000" />
+    <option name="totallyTimeSpent" value="17168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="40" width="1370" height="820" extended-state="0" />
+    <frame x="12" y="8" width="1370" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22147147" />
@@ -331,13 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -345,10 +326,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercicio3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="44" column="96" selection-start-line="44" selection-start-column="96" selection-end-line="44" selection-end-column="96" />
+        <state relative-caret-position="510">
+          <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
         </state>
       </provider>
     </entry>
