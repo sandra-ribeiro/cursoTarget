@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--
+    Na tag <form tenho o id="" e o método metod="get" ou "post"
+    o método get fica visível
+    Usuario: <input id="username"/> (pra conseguir pegar esta informação tenho que ter um id
+    Senha:<input id="senha"/>
+    no action do form eu defino qual é a ação feita pelo submit (logarjavascript, aqui chama um javascript, mas pode ser outra página)
+    o post torna as informações privadas e o get publica
+
+    <form method="post" novalidate> novalidate quer dizer que eu não quero validar nada:
+    <form method="post" novalidate>
+    CEP: <input name="CEP" id="CEP" required pattern="\d{5}-?\d{3}" />
+    <input type="submit" value="Enviar" />
+    *********
+    aqui neste exemplo ele não vai validar quando clicar no Salvar rascunho
+    <form>
+    <label>nome: <input name="nome" required></label>
+    <label>email: <input name="email" type="email" required></label>
+    <label>mensagem: <textarea name="mensagem" required></textarea></label>
+    <input type="submit" name="action" value="Salvar rascunho" formnovalidate>
+    <input type="submit" name="action" value="Enviar">
+    </form>
+    *********
+    <legend> é igual a label, só que a legend quebra a linha e o label não quebra teria que ter um <br>
+    *********
+    required diz que é obrigatório aquele campo
+    *********
+
+</form>
+    -->
+</head>
+<body>
+<form id="cadastro" method="post" action="logarjavascript">
+    Usuário: <input id="username" /> <br>
+    Senha: <input id="senha"/> <br>
+    Satisfação:<input name="_SatisfacaoAtendimento" type="range" min="5" max="100" step="5" />M<br>
+    <input id="botao" type="submit" value="logar"/><br>
+    Cor:<input type="color" id="_CorCarro"><br>
+    <select id="_Carro">
+        <option value="Chevrolet">Chevrolet</option>
+        <option value="Volvo">Volvo</option>
+        <option value="Saab">Saab</option>
+        <option value="VW" selected="selected">VolksWagem</option>
+        <option value="Mercedes">Mercedes</option>
+        <option value="Audi">Audi</option>
+        <option value="Fiat">Fiat</option>
+    </select><br>
+    <textarea id="_TextoMultiLine"></textarea><br>
+    <label for="CEP">
+        CEP: <input name="_CEP" id="_CEP" required pattern="\d{5}-?\d{3}" />
+    </label>
+    <input type="submit" value="Enviar" />
+</form>
+</body>
+</html>
