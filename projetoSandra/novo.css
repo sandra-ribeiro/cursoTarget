@@ -66,6 +66,33 @@ fieldset {
     padding-right: 0.75em;
     border: 2px groove;
     width: 800px;
+    background-color: #84cccb;
+}
+.Name{
+    width: 80%;
+    height: 20px;
+    margin-left: 60px;
+}
+.Fone{
+    width: 25%;
+    height: 20px;
+    margin-left: 35px;
+}
+
+.botaoes{
+    border-style: outset;
+    width: 250px;
+    align-items: center;
+    
+}
+.centro{
+    width: 255px;
+    align-items: center;
+    color: darkgreen;
+
+}
+label:before{
+    content: "*";
 }
 /*progress[value] {
     width: 100px;

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca01cf92-c7a0-4e3f-b7fa-9851c9929cee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/primeiro_de_css.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/novo.css" beforeDir="false" afterPath="$PROJECT_DIR$/novo.css" afterDir="false" />
-    </list>
+    <list default="true" id="ca01cf92-c7a0-4e3f-b7fa-9851c9929cee" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -60,18 +56,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="179" />
-          <entry key="html" value="3799" />
+          <entry key="html" value="3861" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="179" />
-          <entry key="HTML" value="3799" />
+          <entry key="HTML" value="3861" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.52" value="1" />
@@ -85,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/primeiro_de_css.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -198,12 +194,12 @@
       <workItem from="1541590361985" duration="2263000" />
       <workItem from="1541672632907" duration="12146000" />
       <workItem from="1541759961679" duration="8395000" />
-      <workItem from="1541769380585" duration="1661000" />
+      <workItem from="1541769380585" duration="2334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27425000" />
+    <option name="totallyTimeSpent" value="28098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="8" width="1370" height="820" extended-state="0" />
@@ -326,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/primeiro_de_css.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
