@@ -1,0 +1,14 @@
+BootStrap
+get start
+div.row>div.col-sm-6*2 + tab no final (esse comando no html fica com a div abaixo, não precisa escrever tudo
+ <div class="row">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-3"></div>
+ </div>
+ 
+ outro exemplo:
+ body>form>input + tab
+ <body>
+   <form action=""><input type="text"></form>
+ </body>
+            

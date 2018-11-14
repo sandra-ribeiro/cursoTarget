@@ -61,11 +61,4 @@ div-teste:hover {
     /*    -webkit-transform: rotate(180deg);*/
     transform: rotate(180deg);
 }
-.viraesquerda{
-    float: left;
-    transform: rotate(-25deg);
-}
-.viradireita{
-    float: right;
-    transform: rotate(25deg);
-}
+

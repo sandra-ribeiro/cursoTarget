@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159d8b19-921d-42b5-8fb5-b43540eae482" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/projetoSandra/Exercicio8-13112018.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/Exercicio9-13112018.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/style6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/cadastro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/cadastroBootStrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/indexBScss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/polar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/polaroid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoSandra/style6.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetoSandra/style6.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,57 +23,60 @@
     <session id="-1925779858">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="9" />
-          <entry key="html" value="21" />
+          <entry key="css" value="11" />
+          <entry key="html" value="27" />
+          <entry key="indexBScss" value="1" />
           <entry key="jpeg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="9" />
-          <entry key="HTML" value="21" />
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="27" />
           <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="575" />
-          <entry key="html" value="1510" />
+          <entry key="css" value="593" />
+          <entry key="html" value="1776" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="575" />
-          <entry key="HTML" value="1510" />
+          <entry key="CSS" value="593" />
+          <entry key="HTML" value="1776" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio9-13112018.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/cadastroBootStrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="479">
+              <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/style6.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/indexBScss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state relative-caret-position="-4994">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -91,6 +97,8 @@
       <find>.t</find>
       <find>.titu</find>
       <find>teste</find>
+      <find>.</find>
+      <find>input-group-text</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,6 +124,10 @@
         <option value="$PROJECT_DIR$/projetoSandra/Exercicio8-13112018.html" />
         <option value="$PROJECT_DIR$/projetoSandra/Exercicio9-13112018.html" />
         <option value="$PROJECT_DIR$/projetoSandra/style6.css" />
+        <option value="$PROJECT_DIR$/projetoSandra/polar.css" />
+        <option value="$PROJECT_DIR$/projetoSandra/polaroid.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/cadastro.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/cadastroBootStrap.html" />
       </list>
     </option>
   </component>
@@ -148,12 +160,6 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="projetoSandra" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="projetoSandraGit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="projetoSandra" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -179,18 +185,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exemplocassio" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit" />
-      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
+      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,18 +224,19 @@
       <workItem from="1542019501757" duration="3264000" />
       <workItem from="1542023142566" duration="6793000" />
       <workItem from="1542103207939" duration="2057000" />
-      <workItem from="1542110366453" duration="5623000" />
+      <workItem from="1542110366453" duration="5950000" />
+      <workItem from="1542191437981" duration="5714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17737000" />
+    <option name="totallyTimeSpent" value="23778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="8" width="1386" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22700296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19881305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,9 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="n#style#0;n#hr#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -360,15 +364,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio9-13112018.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/cadastro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/polaroid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/polar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/style6.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state relative-caret-position="518">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/indexBScss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4994">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/cadastroBootStrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
         </state>
       </provider>
     </entry>
