@@ -11,4 +11,16 @@ div.row>div.col-sm-6*2 + tab no final (esse comando no html fica com a div abaix
  <body>
    <form action=""><input type="text"></form>
  </body>
+ 
+ *******************************************************************
+ nodejs = linguagem de programação mais poderosa que o javascript
+ 
+ JAVASCRIPT
+ var
+ let ( uma variavel do tipo let não poderá receber novo valor fora da função)
+ const
+ 
+ os valores definem o tipo de variável
+ 
+ 
             
