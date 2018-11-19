@@ -15,3 +15,23 @@ function somaDois(){
     alert(soma);
     /* console.log(soma);*/
 }
+function multDois(){
+    const NOME = "DESSA FUÇÃO"
+    var parcela1 = parseInt(document.getElementById('valor-um').value);
+    var parcela2 = parseInt(document.getElementById('valor-dois').value);
+    let mult = parcela1 * parcela2;
+    alert(mult);
+    /* console.log(soma);*/
+}
+function divDois(){
+    const NOME = "DESSA FUÇÃO"
+    var parcela1 = parseInt(document.getElementById('valor-um').value);
+    var parcela2 = parseInt(document.getElementById('valor-dois').value);
+    if (parseInt(parcela2) == null || parseInt(parcela2) == 0) {
+        alert('número inválido');
+    }else {
+        let mult = parcela1 / parcela2;
+        alert(mult);
+        /* console.log(soma);*/
+    }
+}

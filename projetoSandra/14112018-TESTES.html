@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <script src="dia.js"></script>
     <link rel="stylesheet" href="../css/index.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
           integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
@@ -20,36 +21,16 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
             integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
             crossorigin="anonymous"></script>
-    <title>Exemplo JS</title>
+    <title>Title</title>
 </head>
 <body>
-<div class="botaoes">
-    <button type="button" class="btn btn-primary" onclick="mensagem()">Click AQUI</button>
-</div>
-
-
 <div class="container-fluid">
     <form>
-        <div class="form-group">
-            <label for="valor-um">Valor UM</label>
-            <input type="number"
-                   class="form-control" name="valor-um" id="valor-um" aria-describedby="helpId"
-                   placeholder="digite o valor um">
-            <small id="helpValor-um" class="form-text text-muted">Primeiro valor para o Cáculo</small>
-        </div>
-        <div class="form-group">
-            <label for="valor-dois">Valor DOIS</label>
-            <input type="number"
-                   class="form-control" name="valor-dois" id="valor-dois" aria-describedby="helpId"
-                   placeholder="digite o valor um">
-            <small id="helpValor_dois" class="form-text text-muted">Primeiro valor para o Cáculo</small>
-        </div>
         <div class="botaoes">
-            <button type="button" class="btn btn-success btn-lg btn-block" onclick="somaDois()">SOMA</button>
-            <button type="button" class="btn btn-success btn-lg btn-block" onclick="multDois()">MULTIPLICAÇÃO</button>
-            <button type="button" class="btn btn-success btn-lg btn-block" onclick="divDois()">DIVISÃO</button>
+            <button type="button" class="btn btn-success btn-lg btn-block" onclick="diaSemana()">dia da semana</button>
         </div>
     </form>
 </div>
+
 </body>
 </html>

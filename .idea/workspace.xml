@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159d8b19-921d-42b5-8fb5-b43540eae482" name="Default Changelist" comment="" />
+    <list default="true" id="159d8b19-921d-42b5-8fb5-b43540eae482" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sexo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/14112018-TESTES.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/continhas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/dia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/funcoes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/indice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/mediadez.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoSandra/OperBasica.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoSandra/OperBasica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js" beforeDir="false" afterPath="$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,69 +32,72 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="11" />
-          <entry key="html" value="28" />
+          <entry key="git" value="1" />
+          <entry key="html" value="39" />
           <entry key="indexBScss" value="1" />
           <entry key="jpeg" value="1" />
-          <entry key="js" value="1" />
+          <entry key="js" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="11" />
-          <entry key="HTML" value="28" />
+          <entry key="HTML" value="39" />
           <entry key="Image" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
+          <entry key="UNKNOWN" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="593" />
-          <entry key="html" value="1827" />
-          <entry key="js" value="181" />
+          <entry key="html" value="2216" />
+          <entry key="js" value="1176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="593" />
-          <entry key="HTML" value="1827" />
-          <entry key="JavaScript" value="181" />
+          <entry key="HTML" value="2216" />
+          <entry key="JavaScript" value="1176" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/funcoes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="55" column="7" selection-end-line="55" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/continhas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="54" column="101" selection-start-line="54" selection-start-column="101" selection-end-line="54" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/indice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/OperBasica.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/indexBScss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4994">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="382">
+              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -105,6 +121,7 @@
       <find>teste</find>
       <find>.</find>
       <find>input-group-text</find>
+      <find>OperacoesBasicas.js</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,6 +153,16 @@
         <option value="$PROJECT_DIR$/projetoSandra/cadastroBootStrap.html" />
         <option value="$PROJECT_DIR$/projetoSandra/OperBasica.html" />
         <option value="$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js" />
+        <option value="$PROJECT_DIR$/projetoSandra/19112018-javascriptSelecao.js" />
+        <option value="$PROJECT_DIR$/projetoSandra/14112018-TESTES.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/dia.js" />
+        <option value="$PROJECT_DIR$/Sexo.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/media.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/media.js" />
+        <option value="$PROJECT_DIR$/projetoSandra/mediadez.js" />
+        <option value="$PROJECT_DIR$/projetoSandra/funcoes.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/continhas.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/indice.js" />
       </list>
     </option>
   </component>
@@ -156,22 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="projetoSandraGit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="projetoSandraGit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="projetoSandra" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,23 +199,42 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="projetoSandraGit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="projetoSandraGit" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="projetoSandra" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exemplocassio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exemplocassio1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/cassiowt/exemplo.git" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
       <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,11 +264,12 @@
       <workItem from="1542103207939" duration="2057000" />
       <workItem from="1542110366453" duration="5950000" />
       <workItem from="1542191437981" duration="7606000" />
+      <workItem from="1542623078105" duration="9310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25670000" />
+    <option name="totallyTimeSpent" value="34980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="8" width="1378" height="820" extended-state="0" />
@@ -322,13 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/aula_12112018.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/novo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -353,29 +377,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio7-13112018.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/images/mickey.jpeg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio8-13112018.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="7" lean-forward="true" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio9-13112018.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/cadastro.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -388,10 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -409,13 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/indexBScss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4994">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/cadastroBootStrap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="603">
@@ -423,17 +415,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/OperBasica.html">
+    <entry file="file://$PROJECT_DIR$/projetoSandra/indexBScss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="54" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/aula_12112018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio7-13112018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio8-13112018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/Exercicio9-13112018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/dia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/OperBasica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sexo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/14112018-TESTES.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/media.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <caret line="12" column="65" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/mediadez.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="https://github.com/cassiowt/exemplo.git">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/media.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/funcoes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="55" column="7" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/continhas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="54" column="101" selection-start-line="54" selection-start-column="101" selection-end-line="54" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/indice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
         </state>
       </provider>
     </entry>
