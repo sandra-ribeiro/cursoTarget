@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Primeiro exemplo do uso de style</title>
+    <script type="text/JavaScript">
+        function ExibirForm() {
+            var objDiv = document.getElementById('formlogin').style.visibility;
+            if (objDiv == 'visible')
+                document.getElementById('formlogin').style.visibility = 'hidden';
+            else
+                document.getElementById('formlogin').style.visibility = 'visible';
+        }
+    </script>
+</head>
+<body>
+<p><a href="#" onclick="ExibirForm()">Formulario</a></p>
+<div id="formlogin" style="visibility: visible">
+    <form id="teste" action="algo.php" method="post">
+        Nome: <input type="text" name="login" id="login" size="8"
+                     onfocus="Destacar(this);" onblur="Restaurar(this);" />
+        Senha: <input type="text" name="senha" id="senha" size="8"
+                      onfocus="Destacar(this);" onblur="Restaurar(this);" />
+    </form>
+</div>
+</body>
+</html>

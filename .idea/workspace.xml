@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159d8b19-921d-42b5-8fb5-b43540eae482" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sexo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/14112018-TESTES.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/continhas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/dia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/funcoes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/indice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/media.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoSandra/mediadez.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/exemplo_style.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/exemplo_style2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/exercicio_20112018.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetoSandra/index-exerc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoSandra/OperBasica.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetoSandra/OperBasica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js" beforeDir="false" afterPath="$PROJECT_DIR$/projetoSandra/OperacoesBasicas.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,31 +22,32 @@
     <session id="-1925779858">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="11" />
           <entry key="git" value="1" />
-          <entry key="html" value="39" />
+          <entry key="html" value="43" />
           <entry key="indexBScss" value="1" />
           <entry key="jpeg" value="1" />
-          <entry key="js" value="5" />
+          <entry key="js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="11" />
-          <entry key="HTML" value="39" />
+          <entry key="HTML" value="43" />
           <entry key="Image" value="1" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="UNKNOWN" value="1" />
         </counts>
@@ -60,15 +55,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="593" />
-          <entry key="html" value="2216" />
-          <entry key="js" value="1176" />
+          <entry key="html" value="2379" />
+          <entry key="js" value="1729" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="593" />
-          <entry key="HTML" value="2216" />
-          <entry key="JavaScript" value="1176" />
+          <entry key="HTML" value="2379" />
+          <entry key="JavaScript" value="1729" />
         </counts>
       </usages-collector>
     </session>
@@ -76,28 +71,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/funcoes.html">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/continhas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="55" column="7" selection-end-line="55" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/continhas.html">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/exemplo_style.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="54" column="101" selection-start-line="54" selection-start-column="101" selection-end-line="54" selection-end-column="101" />
+            <state relative-caret-position="255">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/exemplo_style2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projetoSandra/indice.js">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/exercicio_20112018.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+            <state relative-caret-position="184">
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetoSandra/index-exerc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -108,8 +124,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -161,8 +177,12 @@
         <option value="$PROJECT_DIR$/projetoSandra/media.js" />
         <option value="$PROJECT_DIR$/projetoSandra/mediadez.js" />
         <option value="$PROJECT_DIR$/projetoSandra/funcoes.html" />
-        <option value="$PROJECT_DIR$/projetoSandra/continhas.html" />
         <option value="$PROJECT_DIR$/projetoSandra/indice.js" />
+        <option value="$PROJECT_DIR$/projetoSandra/continhas.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/exemplo_style.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/exemplo_style2.html" />
+        <option value="$PROJECT_DIR$/projetoSandra/index-exerc.js" />
+        <option value="$PROJECT_DIR$/projetoSandra/exercicio_20112018.html" />
       </list>
     </option>
   </component>
@@ -179,7 +199,7 @@
     <option name="height" value="820" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -194,6 +214,12 @@
               <item name="projetoSandraGit" type="b2602c69:ProjectViewProjectNode" />
               <item name="projetoSandraGit" type="462c0819:PsiDirectoryNode" />
               <item name="projetoSandra" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projetoSandraGit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projetoSandraGit" type="462c0819:PsiDirectoryNode" />
+              <item name="projetoSandra" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +246,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exemplocassio1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exemplo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -229,12 +255,13 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/cassiowt/exemplo.git" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
-      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra\images" />
+      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit\projetoSandra" />
+      <recent name="C:\Users\sandramaria\WebstormProjects\projetoSandraGit" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -264,18 +291,19 @@
       <workItem from="1542103207939" duration="2057000" />
       <workItem from="1542110366453" duration="5950000" />
       <workItem from="1542191437981" duration="7606000" />
-      <workItem from="1542623078105" duration="9310000" />
+      <workItem from="1542623078105" duration="10440000" />
+      <workItem from="1542710319275" duration="6552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34980000" />
+    <option name="totallyTimeSpent" value="42662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="8" width="1378" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20447761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -509,6 +537,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/indice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/funcoes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="603">
@@ -518,15 +553,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projetoSandra/continhas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="54" column="101" selection-start-line="54" selection-start-column="101" selection-end-line="54" selection-end-column="101" />
+        <state relative-caret-position="153">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetoSandra/indice.js">
+    <entry file="file://$PROJECT_DIR$/projetoSandra/exemplo_style2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/exemplo_style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/index-exerc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetoSandra/exercicio_20112018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>

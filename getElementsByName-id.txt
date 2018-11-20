@@ -1,0 +1,4 @@
+getElementsByName( )
+podemos usar o mesmo name pra todos os elementos de uma imagem, por exemplo, se quisermos dinamicamente alterar alguma
+propriedade de todos ao mesmo tempo.
+Já o id tem que ser único.
