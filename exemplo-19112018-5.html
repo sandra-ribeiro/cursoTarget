@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>JS DOM</title>
+    <script type="text/javascript">
+        function CriarParagrafo() {
+            var objNovoParagrafo = document.createElement('p');
+            var strTexto = document.createTextNode('Informação do parágrafo.');
+            objNovoParagrafo.appendChild(strTexto);
+            document.getElementById('pindice').appendChild(objNovoParagrafo);
+        }
+    </script>
+</head>
+<body>
+<h1>Teste</h1>
+<div id="pagina">
+    <h3>Exemplo</h3>
+    <p id="pindice" onclick="CriarParagrafo();">Inserir conteúdo a partir deste parágrafo</p>
+</div>
+</body>
+</html>

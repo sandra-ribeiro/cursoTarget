@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>JS DOM</title>
+    <script type="text/javascript">
+        function Inserir(objeto) {
+            var objNovoParagrafo = document.createElement('p');
+            var strTexto = document.createTextNode('Conteudo criado!');
+            objNovoParagrafo.appendChild(strTexto);
+            objeto.parentNode.insertBefore(objNovoParagrafo, objeto);
+            objNovoParagrafo.onclick = function () { this.parentNode.removeChild(this); };
+        }
+    </script>
+</head>
+<body>
+<h1>Teste</h1>
+<div id="pagina">
+    <h3>Exemplo</h3>
+    <p id="p1" onclick="Inserir(this);">Adicionar conteudo antes deste elemento...</p>
+    <p id="p2" onclick="Inserir(this);">ou deste.</p>
+</div>
+</body>
+</html>
