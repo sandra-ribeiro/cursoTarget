@@ -10,12 +10,11 @@ function carregaImagens() {
 }
 function Inserir(objeto) {
     var imagens = new Array("img1","img2","img3","img4","img5","img6");
-    for(key in imagens){
+    for(key in imagens) {
         var numero = parseInt(key) + parseInt(1);
         var ele = "img" + numero;
         var objNovoParagrafo = document.createElement('p');
-        var objNovaImagem = document.getElementById(ele).src = "images/"+"malvadofavor.jpg";
-        objNovoParagrafo.onclick = function () { this.parentNode.removeChild(this); };
+        var objNovaImagem = document.getElementById(ele).src = "images/" + "malvadofavor.jpg";
     }
 }
 
