@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script>
+        function myFunction() {
+            document.getElementById("nome").value = "O Cássio é um amado mestre!";
+        }
+        function limpa() {
+            document.getElementById("nome").value = "";
+        }
+        function mostraimagem() {
+            document.getElementById("foto").src = "projetoSandra/images/boa-noite.jpg";
+            document.getElementById("foto").style.width = "100px";
+            document.getElementById("foto").style.height = "100px";
+        }
+       </script>
+</head>
+<body>
+<div>
+    <input id="nome" placeholder="Cássio"  type="text" size="100"/>
+</div>
+<div>
+    <img id="foto" />
+</div>
+<div>
+    <button onclick="myFunction()">Mostrar</button>
+    <button onclick="limpa()">Limpar</button>
+    <button onclick="mostraimagem()">Mostrar Imagem</button>
+</div>
+</body>
+</html>

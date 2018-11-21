@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Eventos </title>
+    <script defer type="text/javascript">
+        function Carregado(event) {
+            alert("Página carregada");
+        }
+        function Sair() {
+            return "Deseja Sair?";
+        }
+    </script>
+</head>
+<body onload="Carregado();" onbeforeunload="return Sair();">
+<a href="http://www.google.com.br/">Teste!</a>
+</body>
+</html>
