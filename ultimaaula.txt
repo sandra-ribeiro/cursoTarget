@@ -1,0 +1,8 @@
+objeto window:
+
+get  (fica disponível na web)
+post (fica escondido na web)
+
+bootstrap
+
+cassiowt@gmail.com
